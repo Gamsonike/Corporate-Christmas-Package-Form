@@ -22,3 +22,7 @@ Double-click `index.html`.
 - **GitHub Pages:** Settings → Pages → Deploy from branch → `main` / root. Live at `https://<username>.github.io/<repo>/`.
 - **WordPress host:** upload to `public_html/corporate-gifts/index.html`.
 
+
+## Med Reminder
+
+A standalone medication reminder app lives in `med-reminder/index.html` (no build step; data stored in localStorage).
